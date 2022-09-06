@@ -1,0 +1,7 @@
+.actor-hobbies-container {
+  margin: 6px 10px 10px 10px;
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

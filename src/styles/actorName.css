@@ -1,0 +1,44 @@
+.actor-name-container {
+  display: flex;
+  flex-direction: column;
+  margin: 10px 10px 10px 10px;
+  font-family: Poppins;
+}
+
+#actor-name {
+  font-size: 13px;
+  line-height: 16px;
+  font-weight: 600;
+}
+
+.actor-job-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#actor-job {
+  font-size: 11px;
+  line-height: 13px;
+  font-weight: 300;
+}
+
+.actor-likes-container {
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-between; */
+  align-items: center;
+}
+
+#actor-likes {
+  font-size: 11px;
+  line-height: 13px;
+  font-weight: 600;
+  color: rgba(244, 183, 64, 1);
+}
+
+.like-svg {
+  height: 13px;
+  width: 10px;
+  margin-left: 2px;
+}

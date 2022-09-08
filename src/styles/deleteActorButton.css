@@ -1,0 +1,20 @@
+.delete-actor-button-container {
+  position: absolute;
+  background-color: white;
+  width: fit-content;
+  border-radius: 30px;
+  display: flex;
+  right: -10px;
+  top: -10px;
+
+  height: 24px;
+  width: 24px;
+  padding: 8px;
+
+  cursor: pointer;
+}
+
+.close-svg {
+  height: 100%;
+  width: 100%;
+}

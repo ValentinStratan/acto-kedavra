@@ -1,0 +1,15 @@
+.edit-actor-button-container {
+  border: 1px solid rgba(99, 8, 247, 1);
+  border-radius: 8px;
+  margin: 8px;
+  padding: 8px;
+
+  display: flex;
+  justify-content: center;
+
+  color: rgba(99, 8, 247, 1);
+  font-family: Poppins;
+  font-size: 10px;
+  line-height: 12px;
+  font-weight: 600;
+}

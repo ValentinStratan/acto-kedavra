@@ -1,0 +1,25 @@
+.actor-description-container {
+  margin: 10px 10px 10px 10px;
+  display: flex;
+  flex-direction: column;
+
+  font-family: Poppins;
+  font-size: 10px;
+  line-height: 12px;
+  font-weight: 300;
+  color: rgba(110, 113, 145, 1);
+}
+
+.actor-description-read-more {
+  color: rgba(244, 183, 64, 1);
+  font-weight: 600;
+
+  display: flex;
+  margin: 8px 0 8px 0;
+
+  cursor: pointer;
+}
+
+.rotated-arrow {
+  transform: rotate(-180deg);
+}
